@@ -18,6 +18,9 @@ Let `Wpos` and `Wneg` be the positive and negative adjacency matrices, respectiv
 ```
 C = clustering_signed_networks_with_geometric_mean_of_Laplacians(Wpos,Wneg,numClusters);
 ```
+# Quick Overview
+![](https://github.com/melopeo/GM/blob/master/PaperAndPoster/ClusteringSignedNetworksWithTheGeometricMeanOfLaplaciansPoster.jpg)
+
 # Citation:
 ```
 @incollection{NIPS2016_6164,
